@@ -22,7 +22,7 @@ Evaluate model by testing it for the test data set.
 Test loss and accuracy for model with 3 layers
 ![Screen Shot 2022-06-14 at 17 27 06](https://user-images.githubusercontent.com/55730503/173531402-4d212ac9-b996-410c-96b6-d94cc034193b.png)
 Test loss and accuracy for model with 5 layers
-
+![Screen Shot 2022-06-14 at 17 38 55](https://user-images.githubusercontent.com/55730503/173533518-3250408f-25bd-45df-8456-885b6d300bff.png)
 Test loss and accuracy for model with 7 layers
 
 
