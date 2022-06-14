@@ -19,15 +19,15 @@ Train the model for 5 epochs.
 
 # Test Accuracy 
 Evaluate model by testing it for the test data set.
-![Screen Shot 2022-06-14 at 17 27 45](https://user-images.githubusercontent.com/55730503/173531396-ae6ab668-9dc4-4ef6-84a2-470aee910cd3.png)
 Test loss and accuracy for model with 3 layers
-
+![Screen Shot 2022-06-14 at 17 27 06](https://user-images.githubusercontent.com/55730503/173531402-4d212ac9-b996-410c-96b6-d94cc034193b.png)
 Test loss and accuracy for model with 5 layers
 
 Test loss and accuracy for model with 7 layers
 
 
 # Image and corresponding probability that are predicted right 
-![Screen Shot 2022-06-14 at 17 27 06](https://user-images.githubusercontent.com/55730503/173531402-4d212ac9-b996-410c-96b6-d94cc034193b.png)
+![Screen Shot 2022-06-14 at 17 27 45](https://user-images.githubusercontent.com/55730503/173531396-ae6ab668-9dc4-4ef6-84a2-470aee910cd3.png)
+
 
 # Image and coressponding probability that are predicted wrong
