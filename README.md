@@ -8,9 +8,8 @@ The required libraries for the CNN impelementation are :
 - Matplotlib.plot : used for visualizations
 
 # Model 
-Three different CNNs models used, with 1 convolution layers and 3 layers which are 3,5 and 7.
-
-
+Three different CNNs models used, with 1 convolution layers and 3 layers which are 3,5 and 7. 
+![Screen Shot 2022-06-14 at 17 20 15](https://user-images.githubusercontent.com/55730503/173529551-12cbcbac-2104-4acb-aded-1945d212b119.png)
 
 # Training and Training Loss
 Choosen optimizer and loss function for training loss.
