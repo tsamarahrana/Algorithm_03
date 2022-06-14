@@ -9,6 +9,8 @@ The required libraries for the CNN impelementation are :
 
 # Model 
 Three different CNNs models used, with 1 convolution layers and 3 layers which are 3,5 and 7.
+![Screen Shot 2022-06-14 at 17 15 07](https://user-images.githubusercontent.com/55730503/173528605-411e49ff-4db1-4f45-84f3-e94704e8d135.png)
+
 
 # Training and Training Loss
 Choosen optimizer and loss function for training loss.
