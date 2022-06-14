@@ -33,5 +33,6 @@ Test loss and accuracy for model with 7 layers
 ![Screen Shot 2022-06-14 at 19 59 44](https://user-images.githubusercontent.com/55730503/173562421-35e88739-9007-4807-8550-5ca15a27ccec.png)
 
 # Image and coressponding probability that are predicted wrong
+![Screen Shot 2022-06-14 at 20 23 54](https://user-images.githubusercontent.com/55730503/173566397-1a5a9145-489f-4b0d-a443-aefa132cc0dc.png)
 ![Screen Shot 2022-06-14 at 17 40 19](https://user-images.githubusercontent.com/55730503/173533906-cb4b2889-a054-4ed0-922e-1f2da0e1ddb9.png)
 ![Screen Shot 2022-06-14 at 19 59 59](https://user-images.githubusercontent.com/55730503/173562409-649f453e-9ce5-4281-863e-4779acc016e0.png)
