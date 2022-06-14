@@ -13,8 +13,9 @@ Three different CNNs models used, with 1 convolution layers and 3 layers which a
 
 # Training and Training Loss
 Choosen optimizer and loss function for training loss.
-
+![Screen Shot 2022-06-14 at 17 22 21](https://user-images.githubusercontent.com/55730503/173530032-420375f4-153a-4309-8749-902e91af2629.png)
 Train the model for 5 epochs. 
+![Screen Shot 2022-06-14 at 17 21 38](https://user-images.githubusercontent.com/55730503/173530040-2acdb81f-bd1a-4534-af68-f326ec73d770.png)
 
 # Test Accuracy 
 Evaluate model by testing it for the test data set.
