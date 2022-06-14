@@ -20,6 +20,13 @@ Train the model for 5 epochs.
 # Test Accuracy 
 Evaluate model by testing it for the test data set.
 
+Test loss and accuracy for model with 3 layers
+
+Test loss and accuracy for model with 5 layers
+
+Test loss and accuracy for model with 7 layers
+
+
 # Image and corresponding probability that are predicted right 
 
 # Image and coressponding probability that are predicted wrong
